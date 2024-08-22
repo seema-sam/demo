@@ -1,2 +1,3 @@
 # demo
-This is first git repo
+This is first git repository.
+Author - Seema Shankar
